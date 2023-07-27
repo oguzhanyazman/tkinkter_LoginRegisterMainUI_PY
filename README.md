@@ -1,12 +1,15 @@
 # tkinkter_LoginRegisterMainUI_PY
 
 Register
+
 ![image](https://github.com/oguzhanyazman/tkinkter_LoginRegisterMainUI_PY/assets/36090819/4b1b45aa-fab2-43ff-94ea-9781c61832ea)
 
 Login 
+
 ![image](https://github.com/oguzhanyazman/tkinkter_LoginRegisterMainUI_PY/assets/36090819/295a9bd4-876d-4093-bc35-989a87f5deeb)
 
 Main
+
 ![image](https://github.com/oguzhanyazman/tkinkter_LoginRegisterMainUI_PY/assets/36090819/de9a43b1-a69b-4014-9049-fb18a1d33127)
 
 Button, textbox ve arkaplan png'den oluşmaktadır.
@@ -17,3 +20,4 @@ sadece Login buttonunda command kodu aktiftir. Butona bastığınızda basit bir
 
 411x731 çözünürlükte fullscreen başlatılacak şekilde ayarlanmıştır.
 
+![Screenshot_1](https://github.com/oguzhanyazman/tkinkter_LoginRegisterMainUI_PY/assets/36090819/9d288f21-ed64-45f8-9f58-99285d8b6638)
