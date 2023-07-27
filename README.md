@@ -18,6 +18,6 @@ Tüm pngleri istediğiniz şekilde canva yada photoshop üzerinde oynama yapıp 
 
 sadece Login buttonunda command kodu aktiftir. Butona bastığınızda basit bir print döngüsü atıyor. Bu kısıma mysql mongodb yada atanmış bir id sifre sorgusu ekleyip login olduğunda 2. forma geçiş sağlayabilirsiniz.
 
-411x731 çözünürlükte fullscreen başlatılacak şekilde ayarlanmıştır.
+411x731 çözünürlükte login, register, main screen olarak 3 formdan oluşur. Ekranın tam ortasında başlatılacak şekilde ayarlanmıştır.
 
 ![Screenshot_1](https://github.com/oguzhanyazman/tkinkter_LoginRegisterMainUI_PY/assets/36090819/9d288f21-ed64-45f8-9f58-99285d8b6638)
