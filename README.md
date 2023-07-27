@@ -20,4 +20,4 @@ sadece Login buttonunda command kodu aktiftir. Butona bastığınızda basit bir
 
 411x731 çözünürlükte login, register, main screen olarak 3 formdan oluşur. Ekranın tam ortasında başlatılacak şekilde ayarlanmıştır.
 
-![Screenshot_1](https://github.com/oguzhanyazman/tkinkter_LoginRegisterMainUI_PY/assets/36090819/9d288f21-ed64-45f8-9f58-99285d8b6638)
+![Screenshot_2](https://github.com/oguzhanyazman/tkinkter_LoginRegisterMainUI_PY/assets/36090819/4eea7dd7-b869-4568-a675-31b2ab1130b6)
